@@ -16,7 +16,7 @@
   "main": "./index.js",
   "dependencies": {
     "connect": "*",
-    "yacw": "0.2.x"
+    "yacw": "https://github.com/SoftwareMarbles/yacw/tarball/master"
   },
   "devDependencies": {
     "mocha": "*"
