@@ -26,5 +26,5 @@
   },
   "engines": { "node": ">= 0.8.0" },
   "repository" : {"type" : "git",
-                  "url" : "http://github.com/tdebarochez/connect-couchdb.git"}
+                  "url" : "http://github.com/SoftwareMarbles/connect-couchdb.git"}
 }
